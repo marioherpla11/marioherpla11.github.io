@@ -10,4 +10,4 @@ Las visualizaciones que voy a tratar son los histogramas, swarmplot e isotype ch
 ![swarmplot_pec2](https://github.com/marioherpla11/marioherpla11.github.io/assets/167066963/57e40496-aece-408d-8a86-39b18cc21611)
 
 
-![isotypechart_pec2](https://github.com/marioherpla11/marioherpla11.github.io/assets/167066963/ea07aa49-5da4-4dd9-9bfc-ee62c7fa2a72)
+![isotypechart_pec2](https://github.com/marioherpla11/marioherpla11.github.io/assets/167066963/621b5968-cc4a-4477-a3b5-484252af6678)
